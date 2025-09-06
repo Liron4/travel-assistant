@@ -47,7 +47,7 @@ curl -X POST http://localhost:8000/chat \
 
 ## Demo & Examples
 
-- 🎬 **Video Demo**: [demo.mp4](demo.mp4) - See the assistant in action
+- 🎬 **Preview GIF**: ![Demo](travel-assistant/demo.gif) - Preview of the assistant in action
 - 📝 **Conversation Examples**: [transcripts.md](transcripts.md) - Real CLI interaction examples
 
 ## Architecture
