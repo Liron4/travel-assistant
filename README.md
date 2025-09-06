@@ -2,8 +2,6 @@
 
 An AI-powered travel planning assistant that provides intelligent recommendations, real-time weather information, and up-to-date travel insights through natural conversations.
 
-![Demo](demo.mp4)
-
 ## Features
 
 - **Smart Conversations**: Natural language travel planning with context memory
@@ -47,7 +45,12 @@ curl -X POST http://localhost:8000/chat \
 
 ## Demo & Examples
 
-- 🎬 **Preview GIF**: ![Demo](travel-assistant/demo.gif) - Preview of the assistant in action
+- 🎬 **Preview GIF**:
+Preview of the assistant in action
+
+![Demo](https://raw.githubusercontent.com/Liron4/travel-assistant/main/demo.gif)
+
+
 - 📝 **Conversation Examples**: [transcripts.md](transcripts.md) - Real CLI interaction examples
 
 ## Architecture
