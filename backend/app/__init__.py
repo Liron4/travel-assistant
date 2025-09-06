@@ -1,1 +1,1 @@
-# Backend application package
+# Travel Assistant App
